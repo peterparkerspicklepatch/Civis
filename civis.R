@@ -1,4 +1,3 @@
-?knitr
 #package that we'll use to download the data
 library(curl)
 library(foreign)
